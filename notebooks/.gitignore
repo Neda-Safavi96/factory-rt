@@ -1,0 +1,25 @@
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Conda / venv
+.env
+.venv
+miniconda3/
+
+# Results / heavy outputs
+results/
+*.npy
+*.npz
+*.h5
+*.ckpt
+*.pth
+*.pt
+*.png
+*.jpg
+*.exr
+*.log
+
+# OS
+.DS_Store
